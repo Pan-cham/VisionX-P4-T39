@@ -3,6 +3,7 @@ opencv-python-headless
 scikit-image
 matplotlib
 pandas
+Pillow
 psutil
 torch
 streamlit>=1.50
