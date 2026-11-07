@@ -1,7 +1,4 @@
-"""Comparative evaluation + ablation + failure cases -> eval_P4_T39.md
-  python evaluate.py --data data/nyu240 --n 100 --usns "1XX23CS001,1XX23CS002,..."
-Unseen data: --rgb_dir DIR --depth_dir DIR --depth_unit mm|m|8bit   (matching file stems)
-"""
+
 import argparse
 import os
 import time
