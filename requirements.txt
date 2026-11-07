@@ -1,0 +1,8 @@
+numpy
+opencv-python-headless
+scikit-image
+matplotlib
+pandas
+psutil
+torch
+streamlit>=1.50
